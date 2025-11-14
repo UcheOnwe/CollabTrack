@@ -123,7 +123,7 @@ These align with the **Implementation Phase** of the Software Engineering cycle:
 ### **4️⃣ Testing Phase (Later)**  
 Unit tests + integration tests  
 
-### **5️⃣ Deployment Phase (Optional)**  
+### **5️⃣ Deployment Phase **  
 Future deployment using Render / Vercel / Azure
 
 ---
