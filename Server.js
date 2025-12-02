@@ -1,8 +1,11 @@
-// Server.js
-
 const express = require('express');
 const app = express();
 const PORT = 3000;
+
+//Hardcode User Authentication Testing
+const usersList = [
+  {email: "test1@gmail.com", password: "123456"}
+];
 
 // Use EJS as the view engine
 app.set('view engine', 'ejs');
@@ -20,8 +23,18 @@ app.get('/login', (req, res) => {
 
 app.post('/login', (req, res) => {
     const {email, password } = req.body;
-    // Logic
-    res.send('Login attempt received: ${email}');
+    
+    // Find a matching user
+    const matchingAccount = usersList.find(currentAccount => currentAccount.email === email);
+
+    if (!matchingAccount) {
+      return res.send ("Email not found");
+    }
+
+    if (matchingAccount.password !== password) {
+      return res.send("Incorrect password. ")
+    }
+    res.render('home', { email});
 });
 
 //  Start the server and keep it running
