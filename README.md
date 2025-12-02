@@ -59,17 +59,17 @@ CollabTrack/
 
 ## Current Features
 
-### ✔ Rendering homepage using EJS  
+###  Rendering homepage using EJS  
 - One working template: `home.ejs`  
 - Bootstrap integrated (via CDN)
 
-### ✔ Express backend configured  
+###  Express backend configured  
 - Local server running on port **3000**  
 - POST route `/echo` to test form submission  
 
 ---
 
-## 🔧 Features Coming Soon (Next Steps)
+##  Features Coming Soon (Next Steps)
 
 These align with the **Implementation Phase** of the Software Engineering cycle:
 
@@ -105,13 +105,13 @@ These align with the **Implementation Phase** of the Software Engineering cycle:
 ## Software Engineering Cycle Alignment
 
 ### **1️ Specification Phase**  
-✔ Requirements & descriptions completed earlier
+ Requirements & descriptions completed earlier
 
 ### **2️ Design Phase**  
-✔ UI mockups  
-✔ Sequence diagrams  
-✔ Database tables  
-✔ High-level architecture  
+- UI mockups  
+- Sequence diagrams  
+- Database tables  
+- High-level architecture  
 (Printed in the Word doc)
 
 ### **3️ Implementation Phase P**  
