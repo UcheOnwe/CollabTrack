@@ -1,9 +1,9 @@
-# 📌 CollabTrack
+# CollabTrack
 A simple team collaboration and task-tracking web application built using **Node.js**, **Express**, **EJS**, and **Bootstrap**.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 CollabTrack is a lightweight collaboration platform where users can:
 
@@ -17,7 +17,7 @@ CollabTrack is a lightweight collaboration platform where users can:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Layer | Technology |
 |-------|------------|
@@ -29,7 +29,7 @@ CollabTrack is a lightweight collaboration platform where users can:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 CollabTrack/
 │
 ├── Views/
@@ -46,7 +46,7 @@ CollabTrack/
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### 1. Install dependencies  
 
@@ -57,7 +57,7 @@ CollabTrack/
 
 ---
 
-## ✨ Current Features
+## Current Features
 
 ### ✔ Rendering homepage using EJS  
 - One working template: `home.ejs`  
@@ -73,62 +73,62 @@ CollabTrack/
 
 These align with the **Implementation Phase** of the Software Engineering cycle:
 
-### 🟦 1. Database Integration (SQLite)
+### 1. Database Integration (SQLite)
 - Build user, task, and group tables  
 - Create migration/startup scripts  
 - Connect Express routes to database queries  
 
-### 🟦 2. Authentication System
+### 2. Authentication System
 - User registration  
 - Secure password hashing (bcrypt)  
 - Sessions & login  
 
-### 🟦 3. Task & Group Management
+### 3. Task & Group Management
 - CRUD functions for tasks  
 - Group creation & membership  
 - User task dashboard  
 
-### 🟦 4. UI Pages (EJS Templates)
+### 4. UI Pages (EJS Templates)
 - Login page  
 - Signup page  
 - Dashboard  
 - Task view  
 - Group management view  
 
-### 🟦 5. Input Validation
+### 5. Input Validation
 - Frontend + backend validation  
 - Clear error messages  
 - Security checks  
 
 ---
 
-## 📘 Software Engineering Cycle Alignment
+## Software Engineering Cycle Alignment
 
-### **1️⃣ Specification Phase**  
+### **1️ Specification Phase**  
 ✔ Requirements & descriptions completed earlier
 
-### **2️⃣ Design Phase**  
+### **2️ Design Phase**  
 ✔ UI mockups  
 ✔ Sequence diagrams  
 ✔ Database tables  
 ✔ High-level architecture  
 (Printed in the Word doc)
 
-### **3️⃣ Implementation Phase — CURRENT STEP**  
+### **3️ Implementation Phase P**  
 - Server created  
 - EJS rendering working  
 - Basic POST route created  
 - Preparing to integrate DB + logic  
 
-### **4️⃣ Testing Phase (Later)**  
+### **4️ Testing Phase **  
 Unit tests + integration tests  
 
-### **5️⃣ Deployment Phase **  
+### **5️ Deployment Phase **  
 Future deployment using Render / Vercel / Azure
 
 ---
 
-## 👤 Team Members
+## Team Members
 
 - **Uchechukwu Onwe** — Backend, UI integration, Database & documentation  
 - **Mike Arodiogbu** — Frontend, Database & documentation
