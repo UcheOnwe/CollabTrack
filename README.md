@@ -130,9 +130,9 @@ Future deployment using Render / Vercel / Azure
 
 ## 👤 Team Members
 
-- **Uchechukwu Onwe** — Backend, UI integration, documentation  
-
-
+- **Uchechukwu Onwe** — Backend, UI integration, Database & documentation  
+- **Mike Arodiogbu** — Frontend, Database & documentation
+- **Jonathan** — Backend, UI integration, Database & documentation
 
 
 
