@@ -120,10 +120,10 @@ These align with the **Implementation Phase** of the Software Engineering cycle:
 - Basic POST route created  
 - Preparing to integrate DB + logic  
 
-### **4️ Testing Phase **  
+### **4️ Testing Phase**  
 Unit tests + integration tests  
 
-### **5️ Deployment Phase **  
+### **5️ Deployment Phase**  
 Future deployment using Render / Vercel / Azure
 
 ---
