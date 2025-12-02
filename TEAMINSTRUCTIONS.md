@@ -1,10 +1,10 @@
-# 🛠️ Developer Setup & Team Instructions
+# Developer Setup & Team Instructions
 
 This section explains **how teammates should set up the project, run it, and contribute safely** without breaking anything.
 
 ---
 
-## 📦 1. Installation Requirements
+## 1. Installation Requirements
 
 Install the following before starting:
 
@@ -16,7 +16,7 @@ Install the following before starting:
 
 ---
 
-## 🚀 2. Cloning the Project
+## 2. Cloning the Project
 
 ### Step-by-Step
 
@@ -35,7 +35,7 @@ https://github.com/UcheOnwe/CollabTrack.git
 
 ---
 
-## 📥 3. Install Dependencies
+## 3. Install Dependencies
 
 After opening the project folder in VS Code, run:
 
@@ -46,7 +46,7 @@ npm install
 
 ---
 
-## ▶️ 4. Run the Server
+## 4. Run the Server
 
 Start the backend:
 
@@ -68,13 +68,13 @@ http://localhost:3000/login
 
 ---
 
-## 🔐 5. Git Workflow (IMPORTANT)
+## 5. Git Workflow (IMPORTANT)
 
 These rules prevent breaking the shared project.
 
 ---
 
-### ✔️ **Always Pull Before Coding**
+### **Always Pull Before Coding**
 
 ```bash
 git pull
@@ -82,7 +82,7 @@ git pull
 
 ---
 
-### ✔️ **After Making Your Changes**
+### **After Making Your Changes**
 
 ```bash
 git add .
@@ -92,7 +92,7 @@ git push
 
 ---
 
-### ❌ **Do NOT do these**
+### **Do NOT do these**
 
 - Don’t delete random files  
 - Don’t rename project folders  
@@ -102,7 +102,7 @@ git push
 
 ---
 
-## 🧩 6. Project Structure Overview
+## 6. Project Structure Overview
 
 | Folder / File | Purpose |
 |---------------|---------|
@@ -113,7 +113,7 @@ git push
 
 ---
 
-## 👥 7. Team Roles
+## 7. Team Roles
 
 | Member | Responsibility |
 |--------|----------------|
@@ -123,7 +123,7 @@ git push
 
 ---
 
-## 🔧 8. Contribution Guide
+## 8. Contribution Guide
 
 ### When adding a new feature:
 
