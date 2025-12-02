@@ -118,7 +118,7 @@ git push
 | Member | Responsibility |
 |--------|----------------|
 | **Uchechukwu Onwe & Jonathan** | Backend logic (routes, controllers, validation) |
-| **Michael Arodiogbu / Uchechukwu Onwe / Jonathan ** | Frontend (EJS templates, Bootstrap UI) |
+| **Michael Arodiogbu, Uchechukwu Onwe & Jonathan** | Frontend (EJS templates, Bootstrap UI) |
 | **Uchechukwu Onwe & Jonathan** | Database connection + models |
 
 ---
